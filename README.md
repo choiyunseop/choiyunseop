@@ -1,9 +1,9 @@
 
-![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=300&section=header&text=Good%20to%20see%20you%20%F0%9F%A4%97&fontSize=60&width=100%25)
+![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=300&section=header&text=Good%20to%20see%20you%20%F0%9F%A4%97)
 
 
 
-<div align="center">
+<div style="display:flex; flex-direction:column; gap:10px; align-items:center;">
     <img height="180px"
         src="https://github-readme-stats-brown-theta.vercel.app/api?username=choiyunseop&show_icons=true&bg_color=ffffff&title_color=000000&text_color=000000&icon_color=4c71f2&border_radius=15&hide_border=true" />
     <img height="180px"
