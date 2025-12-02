@@ -1,7 +1,10 @@
 
 ![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=300&section=header&text=Good%20to%20see%20you%20%F0%9F%A4%97)
 
-<img src="https://img.shields.io/badge/C-#A8B9CC?style=flat-square&logo=Python&logoColor=white"/>
+<img src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=Python&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=JavaScript&logoColor=white"/>
+
 
 <!--
 **choiyunseop/choiyunseop** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
