@@ -31,15 +31,15 @@
 
 </div>
 
-## 💡 𝙸 𝚖𝚊𝚓𝚘𝚛𝚎𝚍 𝚒𝚗
-## Mechatronics @ 한국공학대학교
+💡 𝙸 𝚖𝚊𝚓𝚘𝚛𝚎𝚍 𝚒𝚗
+Mechatronics @ 한국공학대학교
 
-## ✏ 𝙸'𝚟𝚎 𝚜𝚝𝚞𝚍𝚒𝚎𝚍 & 𝙸'𝚖 𝚜𝚝𝚞𝚍𝚢𝚒𝚗𝚐 𝚊𝚝
-## 💙 SSAFY 14th @Gwanju 2025.07~
+✏ 𝙸'𝚟𝚎 𝚜𝚝𝚞𝚍𝚒𝚎𝚍 & 𝙸'𝚖 𝚜𝚝𝚞𝚍𝚢𝚒𝚗𝚐 𝚊𝚝
+💙 SSAFY 14th @Gwanju 2025.07~
 
 
 
-## 🛠 Skills & Tools
+🛠 Skills & Tools
 
 <div align="left">
 
