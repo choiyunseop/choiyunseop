@@ -27,25 +27,23 @@
 ## 📊 GitHub Stats
 
 <div align="center">
+    <div style="display: inline-block; border: 2px solid #e0e0e0; border-radius: 15px; margin: 5px;">
+        <img height="180px"
+            src="https://github-readme-stats-brown-theta.vercel.app/api?username=choiyunseop&show_icons=true&bg_color=ffffff&title_color=000000&text_color=000000&icon_color=4c71f2&border_radius=15&hide_border=true" />
+    </div>
+    <div style="display: inline-block; border: 2px solid #e0e0e0; border-radius: 15px; margin: 5px;">
+        <img height="180px"
+            src="https://github-readme-stats-brown-theta.vercel.app/api/top-langs/?username=choiyunseop&layout=compact&bg_color=ffffff&title_color=000000&text_color=000000&border_radius=15&hide_border=true" />
+    </div>
 
-  <img height="180px"
-      style="border: 1px solid #DDDDDD; border-radius: 15px; margin: 5px;"
-      src="https://github-readme-stats-brown-theta.vercel.app/api?username=choiyunseop&show_icons=true&bg_color=ffffff&title_color=000000&text_color=000000&icon_color=4c71f2&border_radius=15&hide_border=true" />
-
-  <img height="180px"
-      style="border: 1px solid #DDDDDD; border-radius: 15px; margin: 5px;"
-      src="https://github-readme-stats-brown-theta.vercel.app/api/top-langs/?username=choiyunseop&layout=compact&bg_color=ffffff&title_color=000000&text_color=000000&border_radius=15&hide_border=true" />
-
-  <br/>
-
-  <img height="180px"
-      style="border: 1px solid #DDDDDD; border-radius: 15px; margin: 5px;"
-      src="http://mazassumnida.wtf/api/v2/generate_badge?boj=xlrkfmtptm" />
-
-  <img height="180px"
-      style="border: 1px solid #DDDDDD; border-radius: 15px; margin: 5px;"
-      src="https://streak-stats.demolab.com?user=choiyunseop&background=FFFFFF&ring=4c71f2&fire=ff4500&currStreakLabel=4c71f2&sideNums=000000&sideLabels=000000&dates=555555&hide_border=true&border_radius=15" />
-
+    <br/> <div style="display: inline-block; border: 2px solid #e0e0e0; border-radius: 15px; margin: 5px;">
+        <img height="180px"
+            src="http://mazassumnida.wtf/api/v2/generate_badge?boj=xlrkfmtptm" />
+    </div>
+    <div style="display: inline-block; border: 2px solid #e0e0e0; border-radius: 15px; margin: 5px;">
+        <img height="180px"
+            src="https://streak-stats.demolab.com?user=choiyunseop&background=FFFFFF&ring=4c71f2&fire=ff4500&currStreakLabel=4c71f2&sideNums=000000&sideLabels=000000&dates=555555&hide_border=true&border_radius=15" />
+    </div>
 </div>
 
 
