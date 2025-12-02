@@ -29,6 +29,26 @@
 [![Solved.ac프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=xlrkfmtptm)](https://solved.ac/xlrkfmtptm)  
 [![GitHub Streak](https://streak-stats.demolab.com/?user=choiyunseop&theme=dark)](https://git.io/streak-stats)
 
+
+## 📊 GitHub Stats
+
+<div align="center">
+
+<!-- GitHub Stats (Theme: tokyo-night) -->
+<img height="180px" src="https://github-readme-stats.vercel.app/api?username=choiyunseop&show_icons=true&theme=tokyonight&border_radius=15&hide_border=true"/>
+
+<!-- Most Used Languages (compact layout) -->
+<img height="180px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=choiyunseop&layout=compact&theme=tokyonight&border_radius=15&hide_border=true"/>
+
+<!-- Solved.ac 프로필 -->
+<img height="180px" src="http://mazassumnida.wtf/api/v2/generate_badge?boj=xlrkfmtptm"/>
+
+<!-- GitHub Streak Stats -->
+<img height="180px" src="https://streak-stats.demolab.com?user=choiyunseop&theme=tokyonight&hide_border=true&border_radius=15"/>
+
+</div>
+
+
 <!--
 **choiyunseop/choiyunseop** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
