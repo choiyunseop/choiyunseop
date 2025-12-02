@@ -40,6 +40,14 @@
 <!-- Most Used Languages (compact layout) -->
 <img height="180px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=choiyunseop&layout=compact&theme=tokyonight&border_radius=15&hide_border=true"/>
 
+<!-- GitHub Stats (Theme: tokyo-night) -->
+
+<img height="180px" src="https://choiyunseop.vercel.app/api?username=choiyunseop&show_icons=true&theme=tokyonight&border_radius=15&hide_border=true"/>
+
+<!-- Most Used Languages (compact layout) -->
+
+<img height="180px" src="https://choiyunseop.vercel.app/api/top-langs/?username=choiyunseop&layout=compact&theme=tokyonight&border_radius=15&hide_border=true"/>
+
 
 <!-- Solved.ac 프로필 -->
 <img height="180px" src="http://mazassumnida.wtf/api/v2/generate_badge?boj=xlrkfmtptm"/>
