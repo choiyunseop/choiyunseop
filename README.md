@@ -6,18 +6,17 @@
 <div align="center">
   <img height="180px"
     src="https://github-readme-stats-brown-theta.vercel.app/api?username=choiyunseop&show_icons=true&bg_color=ffffff&title_color=000000&text_color=000000&icon_color=4c71f2&border_radius=15&hide_border=false&border_color=E0E0E0" />
-  
   <img height="180px"
     src="https://github-readme-stats-brown-theta.vercel.app/api/top-langs/?username=choiyunseop&layout=compact&bg_color=ffffff&title_color=000000&text_color=000000&border_radius=15&hide_border=false&border_color=E0E0E0" />
-
+  
   <br/>
 
   <img height="180px"
     src="http://mazassumnida.wtf/api/v2/generate_badge?boj=xlrkfmtptm" />
-  
   <img height="180px"
     src="https://streak-stats.demolab.com?user=choiyunseop&background=FFFFFF&ring=4c71f2&fire=ff4500&currStreakLabel=4c71f2&sideNums=000000&sideLabels=000000&dates=555555&border_radius=15&hide_border=false&border_color=E0E0E0" />
 </div>
+
 
 
 ## 📦 Used Tools
