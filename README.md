@@ -30,6 +30,28 @@
   <img src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=Ubuntu&logoColor=white"/>
 </p>
 
+## 📦 Used Tools
+
+<div align="center" style="
+    border: 2px solid #e1e4e8;
+    border-radius: 10px;
+    padding: 20px;
+    margin: 20px;
+">
+
+  <img src="https://img.shields.io/badge/C-0050A0?style=plastic&logo=C&logoColor=white"/>
+  <img src="https://img.shields.io/badge/C++-00427E?style=plastic&logo=C%2B%2B&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=plastic&logo=Python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/ROS-22314E?style=plastic&logo=ROS&logoColor=white"/>
+  <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=plastic&logo=OpenCV&logoColor=white"/>
+  <img src="https://img.shields.io/badge/MATLAB-0076A8?style=plastic&logo=Mathworks&logoColor=white"/>
+  <img src="https://img.shields.io/badge/SOLIDWORKS-E2231A?style=plastic&logo=Dassault%20Systemes&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Git-F05032?style=plastic&logo=Git&logoColor=white"/>
+  <img src="https://img.shields.io/badge/GitHub-181717?style=plastic&logo=GitHub&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Ubuntu-E95420?style=plastic&logo=Ubuntu&logoColor=white"/>
+
+</div>
+
 
 <!--
 **choiyunseop/choiyunseop** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
