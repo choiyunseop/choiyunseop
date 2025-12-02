@@ -18,6 +18,35 @@
 </div>
 
 
+<div align="center">
+
+<br>
+
+<!-- row 1 -->
+<a href="https://github.com/choiyunseop">
+  <img height="200" align="center"
+    src="https://github-readme-stats-brown-theta.vercel.app/api?username=choiyunseop&show_icons=true&bg_color=ffffff&title_color=000000&text_color=000000&icon_color=4c71f2&border_radius=15&hide_border=false&border_color=E0E0E0&card_width=300" />
+</a>
+
+<a href="https://github.com/choiyunseop?tab=repositories">
+  <img height="200" align="center"
+    src="https://github-readme-stats-brown-theta.vercel.app/api/top-langs?username=choiyunseop&layout=compact&bg_color=ffffff&title_color=000000&text_color=000000&border_radius=15&hide_border=false&border_color=E0E0E0&card_width=300" />
+</a>
+
+<br><br>
+
+<!-- row 2 -->
+<a href="https://solved.ac/xlrkfmtptm">
+  <img height="200" align="center"
+    src="http://mazassumnida.wtf/api/v2/generate_badge?boj=xlrkfmtptm" />
+</a>
+
+<a href="https://github.com/choiyunseop">
+  <img height="200" align="center"
+    src="https://streak-stats.demolab.com?user=choiyunseop&background=FFFFFF&ring=4c71f2&fire=ff4500&currStreakLabel=4c71f2&sideNums=000000&sideLabels=000000&dates=555555&border_radius=15&hide_border=false&border_color=E0E0E0&card_width=300" />
+</a>
+
+</div>
 
 
 
