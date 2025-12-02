@@ -23,39 +23,29 @@
 
 </div>
 
-  ## 🤔 Github Stats
-  [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=choiyunseop)](https://github.com/choiyunseop/github-readme-stats)
-  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=choiyunseop)](https://github.com/choiyunseop/github-readme-stats)
-[![Solved.ac프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=xlrkfmtptm)](https://solved.ac/xlrkfmtptm)  
-[![GitHub Streak](https://streak-stats.demolab.com/?user=choiyunseop&theme=dark)](https://git.io/streak-stats)
-
 
 ## 📊 GitHub Stats
 
 <div align="center">
 
-<!-- GitHub Stats (Theme: tokyo-night) -->
-<img height="180px" src="https://github-readme-stats.vercel.app/api?username=choiyunseop&show_icons=true&theme=tokyonight&border_radius=15&hide_border=true"/>
+<!-- GitHub Stats -->
+<img height="180px" 
+     src="https://github-readme-stats-brown-theta.vercel.app/api?username=choiyunseop&show_icons=true&theme=tokyonight&border_radius=15&hide_border=true" />
 
-<!-- Most Used Languages (compact layout) -->
-<img height="180px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=choiyunseop&layout=compact&theme=tokyonight&border_radius=15&hide_border=true"/>
+<!-- Most Used Languages -->
+<img height="180px" 
+     src="https://github-readme-stats-brown-theta.vercel.app/api/top-langs/?username=choiyunseop&layout=compact&theme=tokyonight&border_radius=15&hide_border=true" />
 
-<!-- GitHub Stats (Theme: tokyo-night) -->
+<!-- Solved.ac -->
+<img height="180px" 
+     src="http://mazassumnida.wtf/api/v2/generate_badge?boj=xlrkfmtptm" />
 
-<img height="180px" src="https://choiyunseop.vercel.app/api?username=choiyunseop&show_icons=true&theme=tokyonight&border_radius=15&hide_border=true"/>
-
-<!-- Most Used Languages (compact layout) -->
-
-<img height="180px" src="https://choiyunseop.vercel.app/api/top-langs/?username=choiyunseop&layout=compact&theme=tokyonight&border_radius=15&hide_border=true"/>
-
-
-<!-- Solved.ac 프로필 -->
-<img height="180px" src="http://mazassumnida.wtf/api/v2/generate_badge?boj=xlrkfmtptm"/>
-
-<!-- GitHub Streak Stats -->
-<img height="180px" src="https://streak-stats.demolab.com?user=choiyunseop&theme=tokyonight&hide_border=true&border_radius=15"/>
+<!-- GitHub Streak -->
+<img height="180px" 
+     src="https://streak-stats.demolab.com?user=choiyunseop&theme=tokyonight&hide_border=true&border_radius=15" />
 
 </div>
+
 
 
 <!--
