@@ -28,23 +28,24 @@
 
 <div align="center">
 
-<!-- GitHub Stats -->
-<img height="180px" 
-     src="https://github-readme-stats-brown-theta.vercel.app/api?username=choiyunseop&show_icons=true&theme=tokyonight&border_radius=15&hide_border=true" />
+  <!-- GitHub Stats (배경: 흰색) -->
+  <img height="180px"
+       src="https://github-readme-stats-brown-theta.vercel.app/api?username=choiyunseop&show_icons=true&bg_color=ffffff&title_color=000000&text_color=000000&icon_color=4c71f2&border_radius=15&hide_border=true" />
 
-<!-- Most Used Languages -->
-<img height="180px" 
-     src="https://github-readme-stats-brown-theta.vercel.app/api/top-langs/?username=choiyunseop&layout=compact&theme=tokyonight&border_radius=15&hide_border=true" />
+  <!-- Most Used Languages (배경: 흰색) -->
+  <img height="180px"
+       src="https://github-readme-stats-brown-theta.vercel.app/api/top-langs/?username=choiyunseop&layout=compact&bg_color=ffffff&title_color=000000&text_color=000000&border_radius=15&hide_border=true" />
 
-<!-- Solved.ac -->
-<img height="180px" 
-     src="http://mazassumnida.wtf/api/v2/generate_badge?boj=xlrkfmtptm" />
+  <!-- Solved.ac (이건 원래 흰색이라 그대로 둠) -->
+  <img height="180px"
+       src="http://mazassumnida.wtf/api/v2/generate_badge?boj=xlrkfmtptm" />
 
-<!-- GitHub Streak -->
-<img height="180px" 
-     src="https://streak-stats.demolab.com?user=choiyunseop&theme=tokyonight&hide_border=true&border_radius=15" />
+  <!-- GitHub Streak (배경: 흰색) -->
+  <img height="180px"
+       src="https://streak-stats.demolab.com?user=choiyunseop&background=FFFFFF&ring=4c71f2&fire=ff4500&currStreakLabel=4c71f2&sideNums=000000&sideLabels=000000&dates=555555&hide_border=true&border_radius=15" />
 
 </div>
+
 
 
 
