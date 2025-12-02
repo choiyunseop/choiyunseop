@@ -34,11 +34,13 @@
 
 ## 📦 Used Tools
 
-<div align="center" style="
+<div align="left" style="
     border: 2px solid #e1e4e8;
-    border-radius: 10px;
-    padding: 20px;
-    margin: 20px;
+    border-radius: 0px;
+    padding: 25px 30px;
+    margin: 20px 0;
+    width: 100%;
+    box-sizing: border-box;
 ">
 
   <!-- row 1 -->
@@ -47,14 +49,14 @@
   <img src="https://img.shields.io/badge/Python-3776AB?style=plastic&logo=Python&logoColor=white"/>
   <img src="https://img.shields.io/badge/MATLAB-0076A8?style=plastic&logo=Mathworks&logoColor=white"/>
 
-  <br/>
+  <br/><br/>
 
   <!-- row 2 -->
   <img src="https://img.shields.io/badge/ROS-22314E?style=plastic&logo=ROS&logoColor=white"/>
   <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=plastic&logo=OpenCV&logoColor=white"/>
   <img src="https://img.shields.io/badge/SOLIDWORKS-E2231A?style=plastic&logo=Dassault%20Systemes&logoColor=white"/>
 
-  <br/>
+  <br/><br/>
 
   <!-- row 3 -->
   <img src="https://img.shields.io/badge/Git-F05032?style=plastic&logo=Git&logoColor=white"/>
@@ -62,6 +64,7 @@
   <img src="https://img.shields.io/badge/Ubuntu-E95420?style=plastic&logo=Ubuntu&logoColor=white"/>
 
 </div>
+
 
 
 
