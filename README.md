@@ -1,23 +1,6 @@
 
 ![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=300&section=header&text=Good%20to%20see%20you%20%F0%9F%A4%97)
 
-
-
-<div align="center">
-  <img height="300px"
-    src="https://github-readme-stats-brown-theta.vercel.app/api?username=choiyunseop&show_icons=true&bg_color=ffffff&title_color=000000&text_color=000000&icon_color=4c71f2&border_radius=15&hide_border=false&border_color=E0E0E0" />
-  <img height="300px"
-    src="https://github-readme-stats-brown-theta.vercel.app/api/top-langs/?username=choiyunseop&layout=compact&bg_color=ffffff&title_color=000000&text_color=000000&border_radius=15&hide_border=false&border_color=E0E0E0" />
-  
-  <br/>
-
-  <img height="300px"
-    src="http://mazassumnida.wtf/api/v2/generate_badge?boj=xlrkfmtptm" />
-  <img height="300px"
-    src="https://streak-stats.demolab.com?user=choiyunseop&background=FFFFFF&ring=4c71f2&fire=ff4500&currStreakLabel=4c71f2&sideNums=000000&sideLabels=000000&dates=555555&border_radius=15&hide_border=false&border_color=E0E0E0" />
-</div>
-
-
 <div align="center">
 
 <br>
@@ -48,36 +31,7 @@
 
 </div>
 
-<div align="center">
 
-<br>
-
-<a href="https://github.com/choiyunseop">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=choiyunseop&show_icons=true&theme=buefy&card_width=300" />
-</a>
-<a href="https://github.com/choiyunseop?tab=repositories">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=choiyunseop&layout=compact&langs_count=8&card_width=300" />
-</a>
-
-
-</div>
-
-
-<div align="center">
-
-<br>
-
-<a href="https://github.com/choiyunseop">
-  <img height="200" align="center"
-       src="https://github-readme-stats-brown-theta.vercel.app/api?username=choiyunseop&show_icons=true&theme=buefy&card_width=300" />
-</a>
-
-<a href="https://github.com/choiyunseop?tab=repositories">
-  <img height="200" align="center"
-       src="https://github-readme-stats-brown-theta.vercel.app/api/top-langs?username=choiyunseop&layout=compact&langs_count=8&card_width=300" />
-</a>
-
-</div>
 
 ## 📦 Used Tools
 
