@@ -31,41 +31,15 @@
 
 </div>
 
+## 💡 𝙸 𝚖𝚊𝚓𝚘𝚛𝚎𝚍 𝚒𝚗
+## Mechatronics @ 한국공학대학교
 
-## 📦 Used Tools
+## ✏ 𝙸'𝚟𝚎 𝚜𝚝𝚞𝚍𝚒𝚎𝚍 & 𝙸'𝚖 𝚜𝚝𝚞𝚍𝚢𝚒𝚗𝚐 𝚊𝚝
+## 💙 SSAFY 14th @Gwanju 2025.07~
 
-<div align="left" style="
-    border: 2px solid #e1e4e8;
-    border-radius: 0px;
-    padding: 25px 30px;
-    margin: 20px 0;
-    width: 100%;
-    box-sizing: border-box;
-">
 
-  <!-- row 1 -->
-  <img src="https://img.shields.io/badge/C-0050A0?style=plastic&logo=C&logoColor=white"/>
-  <img src="https://img.shields.io/badge/C++-00427E?style=plastic&logo=C%2B%2B&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=plastic&logo=Python&logoColor=white"/>
-  <img src="https://img.shields.io/badge/MATLAB-0076A8?style=plastic&logo=Mathworks&logoColor=white"/>
 
-  <br/><br/>
-
-  <!-- row 2 -->
-  <img src="https://img.shields.io/badge/ROS-22314E?style=plastic&logo=ROS&logoColor=white"/>
-  <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=plastic&logo=OpenCV&logoColor=white"/>
-  <img src="https://img.shields.io/badge/SOLIDWORKS-E2231A?style=plastic&logo=Dassault%20Systemes&logoColor=white"/>
-
-  <br/><br/>
-
-  <!-- row 3 -->
-  <img src="https://img.shields.io/badge/Git-F05032?style=plastic&logo=Git&logoColor=white"/>
-  <img src="https://img.shields.io/badge/GitHub-181717?style=plastic&logo=GitHub&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Ubuntu-E95420?style=plastic&logo=Ubuntu&logoColor=white"/>
-
-</div>
-
-## 📦 Used Tools
+## 🛠 Skills & Tools
 
 <div align="left">
 
@@ -92,6 +66,11 @@
   </p>
 
 </div>
+
+## 🌐 𝙲𝚘𝚗𝚝𝚊𝚌𝚝 & 𝙻𝚒𝚗𝚔𝚜
+
+
+## 🤲 𝚆𝚘𝚛𝚔 𝙴𝚡𝚙𝚎𝚛𝚒𝚎𝚗𝚌𝚎𝚜
 
 
 
