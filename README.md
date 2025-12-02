@@ -62,6 +62,23 @@
 
 </div>
 
+
+<div align="center">
+
+<br>
+
+<a href="https://github.com/choiyunseop">
+  <img height="200" align="center"
+       src="https://github-readme-stats-brown-theta.vercel.app/api?username=choiyunseop&show_icons=true&theme=buefy&card_width=300" />
+</a>
+
+<a href="https://github.com/choiyunseop?tab=repositories">
+  <img height="200" align="center"
+       src="https://github-readme-stats-brown-theta.vercel.app/api/top-langs?username=choiyunseop&layout=compact&langs_count=8&card_width=300" />
+</a>
+
+</div>
+
 ## 📦 Used Tools
 
 <div align="center" style="
