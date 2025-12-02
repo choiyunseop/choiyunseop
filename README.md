@@ -26,61 +26,26 @@
 
 ## 📊 GitHub Stats
 
-## 🤔 GitHub Stats
-
 <div align="center">
 
-<table>
-  <tr>
-    <td>
-      <!-- GitHub Stats -->
-      <img height="180px"
-           src="https://github-readme-stats-brown-theta.vercel.app/api?username=choiyunseop
-&show_icons=true
-&bg_color=ffffff
-&title_color=4C6FFF
-&text_color=333333
-&icon_color=FFB100
-&border_color=E4E2E2
-&border_radius=15" />
-    </td>
-    <td>
-      <!-- Top Languages -->
-      <img height="180px"
-           src="https://github-readme-stats-brown-theta.vercel.app/api/top-langs/?username=choiyunseop
-&layout=compact
-&bg_color=ffffff
-&title_color=4C6FFF
-&text_color=333333
-&border_color=E4E2E2
-&border_radius=15" />
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <!-- Solved.ac -->
-      <img height="180px"
-           src="http://mazassumnida.wtf/api/v2/generate_badge?boj=xlrkfmtptm" />
-    </td>
-    <td>
-      <!-- GitHub Streak -->
-      <img height="180px"
-           src="https://streak-stats.demolab.com?user=choiyunseop
-&theme=default
-&background=FFFFFF
-&ring=7D4AF1
-&fire=FF9F43
-&currStreakLabel=7D4AF1
-&sideNums=333333
-&sideLabels=333333
-&dates=666666
-&border=E4E2E2
-&border_radius=15" />
-    </td>
-  </tr>
-</table>
+<!-- GitHub Stats -->
+<img height="180px" 
+     src="https://github-readme-stats-brown-theta.vercel.app/api?username=choiyunseop&show_icons=true&theme=tokyonight&border_radius=15&hide_border=true" />
+
+<!-- Most Used Languages -->
+<img height="180px" 
+     src="https://github-readme-stats-brown-theta.vercel.app/api/top-langs/?username=choiyunseop&layout=compact&theme=tokyonight&border_radius=15&hide_border=true" />
+
+<!-- Solved.ac -->
+<img height="180px" 
+     src="http://mazassumnida.wtf/api/v2/generate_badge?boj=xlrkfmtptm" />
+
+<!-- GitHub Streak -->
+<img height="180px" 
+     src="https://streak-stats.demolab.com?user=choiyunseop&theme=tokyonight&hide_border=true&border_radius=15" />
 
 </div>
+
 
 
 
