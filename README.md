@@ -24,11 +24,11 @@
 </div>
 
   ## 🤔 Github Stats
-  [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=choiyunseop)](https://github.com/anuraghazra/github-readme-stats)
-  <br/>
-  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=choiyunseop)](https://github.com/anuraghazra/github-readme-stats)
+  [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=choiyunseop)](https://github.com/choiyunseop/github-readme-stats)
+  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=choiyunseop)](https://github.com/choiyunseop/github-readme-stats)
+[![Solved.ac프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=xlrkfmtptm)](https://solved.ac/xlrkfmtptm)  
+[![GitHub Streak](https://streak-stats.demolab.com/?user=choiyunseop&theme=dark)](https://git.io/streak-stats)
 
-  
 <!--
 **choiyunseop/choiyunseop** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
