@@ -3,7 +3,7 @@
 
 
 
-<div style="display:flex; justify-content:center; align-items:center; gap:10px; flex-wrap:wrap;">
+<div align="center">
     <img height="180px"
         src="https://github-readme-stats-brown-theta.vercel.app/api?username=choiyunseop&show_icons=true&bg_color=ffffff&title_color=000000&text_color=000000&icon_color=4c71f2&border_radius=15&hide_border=true" />
     <img height="180px"
