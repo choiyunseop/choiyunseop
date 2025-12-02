@@ -65,6 +65,27 @@
 
 </div>
 
+## 📦 Used Tools
+
+<!-- Languages -->
+<img src="https://img.shields.io/badge/C-0050A0?style=for-the-badge&logo=c&logoColor=white">
+<img src="https://img.shields.io/badge/C++-00427E?style=for-the-badge&logo=c%2B%2B&logoColor=white">
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white">
+<img src="https://img.shields.io/badge/MATLAB-0076A8?style=for-the-badge&logo=mathworks&logoColor=white">
+
+<br/>
+
+<!-- Robotics / Vision / CAD -->
+<img src="https://img.shields.io/badge/ROS-22314E?style=for-the-badge&logo=ros&logoColor=white">
+<img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white">
+<img src="https://img.shields.io/badge/SOLIDWORKS-E2231A?style=for-the-badge&logo=dassaultsystemes&logoColor=white">
+
+<br/>
+
+<!-- Tools / OS -->
+<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white">
+<img src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white">
 
 
 
